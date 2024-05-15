@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://aavashkuikel.github.io/sitemap.xml
+Host: https://aavashkuikel.github.io
